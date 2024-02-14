@@ -1,0 +1,6 @@
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary2\bin\Debug\SearchLibrary2.dll
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary2\bin\Debug\SearchLibrary2.pdb
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary2\obj\Debug\SearchLibrary2.csproj.AssemblyReference.cache
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary2\obj\Debug\SearchLibrary2.csproj.CoreCompileInputs.cache
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary2\obj\Debug\SearchLibrary2.dll
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary2\obj\Debug\SearchLibrary2.pdb
